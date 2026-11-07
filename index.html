@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Capitaine Cortese — poèmes dits à voix haute</title>
+<meta name="description" content="Le podcast des poèmes du Capitaine Cortese.">
+<link rel="icon" href="assets/couverture.svg">
+<link rel="alternate" type="application/rss+xml" title="Capitaine Cortese" href="feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,700;1,500&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-inner">
+    <img class="cover" src="assets/couverture.svg" alt="Couverture : un voilier sous la lune">
+    <div>
+      <p class="kicker">Podcast de poésie</p>
+      <h1>Capitaine Cortese</h1>
+      <p class="tagline" id="tagline">Poèmes dits à voix haute</p>
+      <p class="desc" id="description"></p>
+      <p class="links">
+        <a class="btn" href="feed.xml">S'abonner (flux RSS)</a>
+        <span class="count" id="count"></span>
+      </p>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="toolbar">
+    <h2>Le journal de bord</h2>
+    <input type="search" id="search" placeholder="Chercher un poème…" aria-label="Chercher un poème">
+  </div>
+  <ol class="episodes" id="episodes"></ol>
+  <p class="empty" id="empty" hidden>Aucun poème ne correspond.</p>
+</main>
+
+<footer>
+  <p>© <span id="year"></span> Capitaine Cortese · Tous droits réservés sur les textes et les enregistrements.</p>
+</footer>
+
+<!-- Lecteur fixe en bas de page -->
+<div class="player" id="player" hidden>
+  <button class="play" id="playBtn" aria-label="Lecture">▶</button>
+  <div class="pl-info">
+    <div class="pl-title" id="plTitle"></div>
+    <div class="pl-bar">
+      <span id="plCur">0:00</span>
+      <input type="range" id="plSeek" min="0" max="100" value="0" step="0.1" aria-label="Position">
+      <span id="plDur">0:00</span>
+    </div>
+  </div>
+  <button class="speed" id="speedBtn" aria-label="Vitesse de lecture">1×</button>
+</div>
+<audio id="audio" preload="metadata"></audio>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

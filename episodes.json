@@ -1,0 +1,36 @@
+{
+  "titre": "Capitaine Cortese",
+  "sousTitre": "Poèmes dits à voix haute",
+  "description": "Le podcast des poèmes du Capitaine Cortese : des textes courts, lus à voix haute, comme on lit une carte marine à la lueur d'une lampe.",
+  "auteur": "Capitaine Cortese",
+  "email": "michel.valentini@protonmail.com",
+  "langue": "fr",
+  "urlSite": "https://exemple.github.io/capitaine-cortese/",
+  "image": "assets/couverture.jpg",
+  "episodes": [
+    {
+      "id": "le-monarque-gris",
+      "numero": 1,
+      "titre": "Le monarque gris",
+      "date": "2026-11-07",
+      "duree": "2:47",
+      "audio": "audio/01-le-monarque-gris.mp3",
+      "recueil": "Les oubliés d’Éros — I. Le diamant",
+      "resume": "Un roi déchu, un jardin desséché, et un diamant d’innocence prêté de bon cœur. Le début du conte.",
+      "texte": "Quand je l’ai rencontré, assis sur un rocher,\nCe vieillard regardait son domaine asséché,\nIl me prit par la main, car je voulais l’aider,\nEt me montra alors son jardin potager.\n\nC’était un roi déchu, courbé par les années,\nIl vivait dans l’oubli et dans la pauvreté,\nLes cactus dévoraient ses terres calcinées,\nAucun fruit n’y poussait, je le pris en pitié.\n\nIl portait un manteau d'une laine grisâtre,\nSa voix était éteinte et son regard si las,\nJe ne remarquai pas, assis au coin de l'âtre,\nQue tout ce qu'il touchait devenait gris et plat.\n\nJ’expliquais mon départ, ma longue itinérance,\nJe voulais voyager, curieux de connaissance,\nDans un petit coffret, hérité de l'enfance,\nJe lui montrai alors mon diamant d'innocence.\n\nLe plaçant sur mon œil, j’observais son terrain,\nJe vis le courant d’eau d’un canal souterrain,\nIl nous fallait creuser pour semer du bon grain,\nPuis irriguer les champs du déchu souverain.\n\nTous les gens affluaient pour cultiver la terre,\nNous bâtîmes un moulin pour écraser le blé,\nLes rats se nourrissaient des sacs posés par terre,\nEt les chiens les chassaient pour gagner à manger.\n\nGrâce à tous mes projets, le désert reculait,\nPartout on acclamait ce rusé souverain,\nEn fidèle ingénieur, moi je le secondais,\nEt j’avais l’ambition d’aller encore plus loin.\n\nUn matin je marchais, le Roi m’accompagnait,\nLes marais de la Mort sous nos yeux s’étendaient\nJe saisis mon diamant pour trouver des idées,\nComment donc assécher ces horribles marais ?\n\nIl fallait un canal, mais mon sang s’écoulait,\nC’était un coup de traître, au sol je m’effondrais\nLe goût du fer, la terre, et le froid qui montait\n…\n\nJe revins à la vie, sans avoir le diamant,\nCar le monarque gris me l’avait dérobé\nMoi j’avais tout donné, je n’étais pas méfiant\nCe coup de trahison venait de mon allié.",
+      "credits": ""
+    },
+    {
+      "id": "l-assaut-des-bandits",
+      "numero": 2,
+      "titre": "L’assaut des bandits",
+      "date": "2026-11-07",
+      "duree": "2:21",
+      "audio": "audio/02-l-assaut-des-bandits.mp3",
+      "recueil": "Les oubliés d’Éros — I. Le diamant",
+      "resume": "Les bandits du désert, la trahison payée, et le diamant changé en charbon.",
+      "texte": "Recourbé de douleur, j’ai traversé la nuit,\nArrivèrent au matin les bandits du désert\nMais pour nous protéger, nous n’avions rien bâti,\nIls étaient bien deux cents à envahir nos terres.\n\nLes gens n’ont pas lutté, ils avaient bien trop peur,\nLes moulins ont brûlé, les rats se sont enfuis,\nLes bandits ont violé en semant la terreur,\nLeurs chiens ont dévoré les enfants dans leur lit.\n\nMoi j’ai été frappé en croisant des bandits,\nPuis trainé dans la boue sous leurs éclats de rire,\nIls m’ont laissé pour mort au milieu d’un maquis,\nJ’avais tellement mal que je voulais mourir.\n\nLeur chef avait au cou une dent d'animal,\nSa balafre en travers figeait son air moqueur,\nIl riait en cognant, d'un rire guttural,\nEt ce rire couvrait mes cris et ma douleur.\n\nMais comme un revenant, je me suis relevé,\nPorté par la douleur, j’ai tout d’abord marché,\nEt j’ai longtemps erré dans les champs désolés,\nJe vis le souverain qui m’avait détroussé.\n\nPourrissant au soleil, tué par les bandits,\nJe m’approchai de lui, je lui crachai dessus,\nJe trouvai mon coffret dans un creux de l’habit,\nEt j’ouvris celui-ci, le diamant n’était plus.\n\nUn morceau de charbon au lieu de mon diamant,\nMon diamant transmuté, maintenant sans valeur,\nJe le mis sur mon œil, ce n’est plus comme avant,\nDans mon corps en entier, simplement la douleur.\n\nDiamant de pureté hérité de l’enfance,\nJe t’ai vraiment perdu avec mon innocence,\nAlors qu’auparavant, j’étais dans l’insouciance,\nElle commence aujourd’hui cette terrible errance.",
+      "credits": "Rire : « Evil Laughs » by Audionautics, freesound.org, CC BY 3.0. Galop (Max_Headroom) et flammes (kingsrow) : freesound.org, CC0."
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capitaine Cortese</title>
+    <link>https://exemple.github.io/capitaine-cortese/</link>
+    <atom:link href="https://exemple.github.io/capitaine-cortese/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>fr</language>
+    <description>Le podcast des poèmes du Capitaine Cortese : des textes courts, lus à voix haute, comme on lit une carte marine à la lueur d'une lampe.</description>
+    <itunes:author>Capitaine Cortese</itunes:author>
+    <itunes:owner>
+      <itunes:name>Capitaine Cortese</itunes:name>
+      <itunes:email>michel.valentini@protonmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://exemple.github.io/capitaine-cortese/assets/couverture.jpg"/>
+    <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Le monarque gris</title>
+      <description>Un roi déchu, un jardin desséché, et un diamant d’innocence prêté de bon cœur. Le début du conte.
+
+Quand je l’ai rencontré, assis sur un rocher,
+Ce vieillard regardait son domaine asséché,
+Il me prit par la main, car je voulais l’aider,
+Et me montra alors son jardin potager.
+
+C’était un roi déchu, courbé par les années,
+Il vivait dans l’oubli et dans la pauvreté,
+Les cactus dévoraient ses terres calcinées,
+Aucun fruit n’y poussait, je le pris en pitié.
+
+Il portait un manteau d'une laine grisâtre,
+Sa voix était éteinte et son regard si las,
+Je ne remarquai pas, assis au coin de l'âtre,
+Que tout ce qu'il touchait devenait gris et plat.
+
+J’expliquais mon départ, ma longue itinérance,
+Je voulais voyager, curieux de connaissance,
+Dans un petit coffret, hérité de l'enfance,
+Je lui montrai alors mon diamant d'innocence.
+
+Le plaçant sur mon œil, j’observais son terrain,
+Je vis le courant d’eau d’un canal souterrain,
+Il nous fallait creuser pour semer du bon grain,
+Puis irriguer les champs du déchu souverain.
+
+Tous les gens affluaient pour cultiver la terre,
+Nous bâtîmes un moulin pour écraser le blé,
+Les rats se nourrissaient des sacs posés par terre,
+Et les chiens les chassaient pour gagner à manger.
+
+Grâce à tous mes projets, le désert reculait,
+Partout on acclamait ce rusé souverain,
+En fidèle ingénieur, moi je le secondais,
+Et j’avais l’ambition d’aller encore plus loin.
+
+Un matin je marchais, le Roi m’accompagnait,
+Les marais de la Mort sous nos yeux s’étendaient
+Je saisis mon diamant pour trouver des idées,
+Comment donc assécher ces horribles marais ?
+
+Il fallait un canal, mais mon sang s’écoulait,
+C’était un coup de traître, au sol je m’effondrais
+Le goût du fer, la terre, et le froid qui montait
+…
+
+Je revins à la vie, sans avoir le diamant,
+Car le monarque gris me l’avait dérobé
+Moi j’avais tout donné, je n’étais pas méfiant
+Ce coup de trahison venait de mon allié.</description>
+      <link>https://exemple.github.io/capitaine-cortese/#le-monarque-gris</link>
+      <guid isPermaLink="false">le-monarque-gris</guid>
+      <pubDate>Sat, 07 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://exemple.github.io/capitaine-cortese/audio/01-le-monarque-gris.mp3" length="4000364" type="audio/mpeg"/>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>2:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L’assaut des bandits</title>
+      <description>Les bandits du désert, la trahison payée, et le diamant changé en charbon.
+
+Recourbé de douleur, j’ai traversé la nuit,
+Arrivèrent au matin les bandits du désert
+Mais pour nous protéger, nous n’avions rien bâti,
+Ils étaient bien deux cents à envahir nos terres.
+
+Les gens n’ont pas lutté, ils avaient bien trop peur,
+Les moulins ont brûlé, les rats se sont enfuis,
+Les bandits ont violé en semant la terreur,
+Leurs chiens ont dévoré les enfants dans leur lit.
+
+Moi j’ai été frappé en croisant des bandits,
+Puis trainé dans la boue sous leurs éclats de rire,
+Ils m’ont laissé pour mort au milieu d’un maquis,
+J’avais tellement mal que je voulais mourir.
+
+Leur chef avait au cou une dent d'animal,
+Sa balafre en travers figeait son air moqueur,
+Il riait en cognant, d'un rire guttural,
+Et ce rire couvrait mes cris et ma douleur.
+
+Mais comme un revenant, je me suis relevé,
+Porté par la douleur, j’ai tout d’abord marché,
+Et j’ai longtemps erré dans les champs désolés,
+Je vis le souverain qui m’avait détroussé.
+
+Pourrissant au soleil, tué par les bandits,
+Je m’approchai de lui, je lui crachai dessus,
+Je trouvai mon coffret dans un creux de l’habit,
+Et j’ouvris celui-ci, le diamant n’était plus.
+
+Un morceau de charbon au lieu de mon diamant,
+Mon diamant transmuté, maintenant sans valeur,
+Je le mis sur mon œil, ce n’est plus comme avant,
+Dans mon corps en entier, simplement la douleur.
+
+Diamant de pureté hérité de l’enfance,
+Je t’ai vraiment perdu avec mon innocence,
+Alors qu’auparavant, j’étais dans l’insouciance,
+Elle commence aujourd’hui cette terrible errance.
+
+Sons : Rire : « Evil Laughs » by Audionautics, freesound.org, CC BY 3.0. Galop (Max_Headroom) et flammes (kingsrow) : freesound.org, CC0.</description>
+      <link>https://exemple.github.io/capitaine-cortese/#l-assaut-des-bandits</link>
+      <guid isPermaLink="false">l-assaut-des-bandits</guid>
+      <pubDate>Sat, 07 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://exemple.github.io/capitaine-cortese/audio/02-l-assaut-des-bandits.mp3" length="3376556" type="audio/mpeg"/>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>2:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

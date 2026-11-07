@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <linearGradient id="ciel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1a2e"/>
+      <stop offset="1" stop-color="#16324f"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#ciel)"/>
+  <mask id="croissant">
+    <rect width="600" height="600" fill="#fff"/>
+    <circle cx="450" cy="138" r="44" fill="#000"/>
+  </mask>
+  <circle cx="430" cy="150" r="48" fill="#e9c46a" mask="url(#croissant)"/>
+  <g fill="#e9c46a" opacity=".8">
+    <circle cx="110" cy="90" r="2.5"/><circle cx="200" cy="160" r="1.8"/><circle cx="320" cy="70" r="2"/>
+    <circle cx="520" cy="260" r="1.6"/><circle cx="70" cy="230" r="1.6"/><circle cx="260" cy="230" r="1.4"/>
+  </g>
+  <path d="M0 400 Q75 380 150 400 T300 400 T450 400 T600 400 V600 H0Z" fill="#1d4a6e"/>
+  <path d="M0 440 Q75 420 150 440 T300 440 T450 440 T600 440 V600 H0Z" fill="#163b59"/>
+  <g transform="translate(300 330)" fill="#f4ecd8">
+    <path d="M-90 40 H90 L65 72 H-65Z"/>
+    <rect x="-3" y="-120" width="6" height="160"/>
+    <path d="M6 -112 L78 28 H6Z"/>
+    <path d="M-6 -90 L-62 28 H-6Z" opacity=".85"/>
+  </g>
+  <text x="300" y="515" text-anchor="middle" font-family="Georgia, serif" font-size="46" fill="#f4ecd8" letter-spacing="2">Capitaine Cortese</text>
+  <text x="300" y="555" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#e9c46a">poèmes dits à voix haute</text>
+</svg>

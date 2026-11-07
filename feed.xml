@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Capitaine Cortese</title>
-    <link>https://exemple.github.io/capitaine-cortese/</link>
-    <atom:link href="https://exemple.github.io/capitaine-cortese/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://mvalentini-site.github.io/capitaine-cortese/</link>
+    <atom:link href="https://mvalentini-site.github.io/capitaine-cortese/feed.xml" rel="self" type="application/rss+xml"/>
     <language>fr</language>
     <description>Le podcast des poèmes du Capitaine Cortese : des textes courts, lus à voix haute, comme on lit une carte marine à la lueur d'une lampe.</description>
     <itunes:author>Capitaine Cortese</itunes:author>
@@ -11,7 +11,7 @@
       <itunes:name>Capitaine Cortese</itunes:name>
       <itunes:email>michel.valentini@protonmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://exemple.github.io/capitaine-cortese/assets/couverture.jpg"/>
+    <itunes:image href="https://mvalentini-site.github.io/capitaine-cortese/assets/couverture.jpg"/>
     <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
@@ -67,10 +67,10 @@ Je revins à la vie, sans avoir le diamant,
 Car le monarque gris me l’avait dérobé
 Moi j’avais tout donné, je n’étais pas méfiant
 Ce coup de trahison venait de mon allié.</description>
-      <link>https://exemple.github.io/capitaine-cortese/#le-monarque-gris</link>
+      <link>https://mvalentini-site.github.io/capitaine-cortese/#le-monarque-gris</link>
       <guid isPermaLink="false">le-monarque-gris</guid>
       <pubDate>Sat, 07 Nov 2026 08:00:00 +0100</pubDate>
-      <enclosure url="https://exemple.github.io/capitaine-cortese/audio/01-le-monarque-gris.mp3" length="4000364" type="audio/mpeg"/>
+      <enclosure url="https://mvalentini-site.github.io/capitaine-cortese/audio/01-le-monarque-gris.mp3" length="4000364" type="audio/mpeg"/>
       <itunes:episode>1</itunes:episode>
       <itunes:duration>2:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -120,12 +120,70 @@ Alors qu’auparavant, j’étais dans l’insouciance,
 Elle commence aujourd’hui cette terrible errance.
 
 Sons : Rire : « Evil Laughs » by Audionautics, freesound.org, CC BY 3.0. Galop (Max_Headroom) et flammes (kingsrow) : freesound.org, CC0.</description>
-      <link>https://exemple.github.io/capitaine-cortese/#l-assaut-des-bandits</link>
+      <link>https://mvalentini-site.github.io/capitaine-cortese/#l-assaut-des-bandits</link>
       <guid isPermaLink="false">l-assaut-des-bandits</guid>
       <pubDate>Sat, 07 Nov 2026 08:00:00 +0100</pubDate>
-      <enclosure url="https://exemple.github.io/capitaine-cortese/audio/02-l-assaut-des-bandits.mp3" length="3376556" type="audio/mpeg"/>
+      <enclosure url="https://mvalentini-site.github.io/capitaine-cortese/audio/02-l-assaut-des-bandits.mp3" length="3376556" type="audio/mpeg"/>
       <itunes:episode>2</itunes:episode>
       <itunes:duration>2:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La vraie question</title>
+      <description>Une plongée dans l’eau glacée, la question de la mort posée sans détour, et la remontée vers le sable.
+
+Je défais mes habits au bord de la jetée,
+Puis un courant marin vient pour les emporter,
+Quand je plonge mon pied dans l'eau de mer glacée
+Je tressaille de froid, mais choisis de plonger.
+
+La chaleur de mon corps s'écoule dans les flots,
+Qui tiraillent mes nerfs et me crispent la peau,
+Je n'étais pas vivant à l’abri hors de l'eau
+Dans cette vie passée à écarter les maux.
+
+Une peur m’envahit. J'ai vu passer le temps.
+Des gens autour de moi que j'ai vus nous quitter,
+Comment donc profiter de tout ce temps restant
+Sans savoir ce qui vient dans cet instant d'après ?
+
+Le froid gagne mes bras, ma pensée s'engourdit,
+Je pourrais rester là, me laisser emporter,
+Le silence est si doux que plus rien ne me dit
+Pourquoi je devrais vivre et pourquoi remonter.
+
+Mais mon cœur se débat, m’ordonne de monter
+Un tentacule gris me saisit par les pieds,
+Je replie tout mon corps afin de l'agripper,
+Quand je plante mes ongles, il ne veut pas céder.
+
+Le dernier souffle d'air vient quitter mes poumons,
+Mon regard devient trouble et mon cœur ralentit
+Quand soudain l'animal s'enfuit dans un grand bond
+Devant un cachalot qui alors le poursuit.
+
+Dans un dernier sursaut, je regagne la terre
+Mes poumons enflammés respirent bruyamment,
+Allongé sur le sable, et regardant en l'air
+Je saisis ce moment et je me sens vivant.
+
+Face à la vraie question, aucun projet n'est vain,
+Et c'est la dépression que je vais affronter :
+Debout face aux périls, debout chaque matin,
+Je saurai retrouver la candeur oubliée.
+
+Je mettrai dans mes vers ce qui me rend vivant,
+Repoussant cette mort jusqu'à ce prochain mot,
+Je travaillerai dur, et je rirai souvent,
+Mais parfois, certains jours, je finirai sous l’eau.
+
+Sons : Cachalot : « whale.wav » by stomachache, freesound.org, CC BY 3.0. Vagues (felix.blume), nage (craigsmith), ambiance sous l’eau (Tim_Verberne) : freesound.org, CC0.</description>
+      <link>https://mvalentini-site.github.io/capitaine-cortese/#la-vraie-question</link>
+      <guid isPermaLink="false">la-vraie-question</guid>
+      <pubDate>Sat, 07 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://mvalentini-site.github.io/capitaine-cortese/audio/03-la-vraie-question.mp3" length="3839660" type="audio/mpeg"/>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>2:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

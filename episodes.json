@@ -5,7 +5,7 @@
   "auteur": "Capitaine Cortese",
   "email": "michel.valentini@protonmail.com",
   "langue": "fr",
-  "urlSite": "https://exemple.github.io/capitaine-cortese/",
+  "urlSite": "https://mvalentini-site.github.io/capitaine-cortese/",
   "image": "assets/couverture.jpg",
   "episodes": [
     {
@@ -31,6 +31,18 @@
       "resume": "Les bandits du désert, la trahison payée, et le diamant changé en charbon.",
       "texte": "Recourbé de douleur, j’ai traversé la nuit,\nArrivèrent au matin les bandits du désert\nMais pour nous protéger, nous n’avions rien bâti,\nIls étaient bien deux cents à envahir nos terres.\n\nLes gens n’ont pas lutté, ils avaient bien trop peur,\nLes moulins ont brûlé, les rats se sont enfuis,\nLes bandits ont violé en semant la terreur,\nLeurs chiens ont dévoré les enfants dans leur lit.\n\nMoi j’ai été frappé en croisant des bandits,\nPuis trainé dans la boue sous leurs éclats de rire,\nIls m’ont laissé pour mort au milieu d’un maquis,\nJ’avais tellement mal que je voulais mourir.\n\nLeur chef avait au cou une dent d'animal,\nSa balafre en travers figeait son air moqueur,\nIl riait en cognant, d'un rire guttural,\nEt ce rire couvrait mes cris et ma douleur.\n\nMais comme un revenant, je me suis relevé,\nPorté par la douleur, j’ai tout d’abord marché,\nEt j’ai longtemps erré dans les champs désolés,\nJe vis le souverain qui m’avait détroussé.\n\nPourrissant au soleil, tué par les bandits,\nJe m’approchai de lui, je lui crachai dessus,\nJe trouvai mon coffret dans un creux de l’habit,\nEt j’ouvris celui-ci, le diamant n’était plus.\n\nUn morceau de charbon au lieu de mon diamant,\nMon diamant transmuté, maintenant sans valeur,\nJe le mis sur mon œil, ce n’est plus comme avant,\nDans mon corps en entier, simplement la douleur.\n\nDiamant de pureté hérité de l’enfance,\nJe t’ai vraiment perdu avec mon innocence,\nAlors qu’auparavant, j’étais dans l’insouciance,\nElle commence aujourd’hui cette terrible errance.",
       "credits": "Rire : « Evil Laughs » by Audionautics, freesound.org, CC BY 3.0. Galop (Max_Headroom) et flammes (kingsrow) : freesound.org, CC0."
+    },
+    {
+      "id": "la-vraie-question",
+      "numero": 3,
+      "titre": "La vraie question",
+      "date": "2026-11-07",
+      "duree": "2:40",
+      "audio": "audio/03-la-vraie-question.mp3",
+      "recueil": "Les oubliés d’Éros — I. Le diamant",
+      "resume": "Une plongée dans l’eau glacée, la question de la mort posée sans détour, et la remontée vers le sable.",
+      "texte": "Je défais mes habits au bord de la jetée,\nPuis un courant marin vient pour les emporter,\nQuand je plonge mon pied dans l'eau de mer glacée\nJe tressaille de froid, mais choisis de plonger.\n\nLa chaleur de mon corps s'écoule dans les flots,\nQui tiraillent mes nerfs et me crispent la peau,\nJe n'étais pas vivant à l’abri hors de l'eau\nDans cette vie passée à écarter les maux.\n\nUne peur m’envahit. J'ai vu passer le temps.\nDes gens autour de moi que j'ai vus nous quitter,\nComment donc profiter de tout ce temps restant\nSans savoir ce qui vient dans cet instant d'après ?\n\nLe froid gagne mes bras, ma pensée s'engourdit,\nJe pourrais rester là, me laisser emporter,\nLe silence est si doux que plus rien ne me dit\nPourquoi je devrais vivre et pourquoi remonter.\n\nMais mon cœur se débat, m’ordonne de monter\nUn tentacule gris me saisit par les pieds,\nJe replie tout mon corps afin de l'agripper,\nQuand je plante mes ongles, il ne veut pas céder.\n\nLe dernier souffle d'air vient quitter mes poumons,\nMon regard devient trouble et mon cœur ralentit\nQuand soudain l'animal s'enfuit dans un grand bond\nDevant un cachalot qui alors le poursuit.\n\nDans un dernier sursaut, je regagne la terre\nMes poumons enflammés respirent bruyamment,\nAllongé sur le sable, et regardant en l'air\nJe saisis ce moment et je me sens vivant.\n\nFace à la vraie question, aucun projet n'est vain,\nEt c'est la dépression que je vais affronter :\nDebout face aux périls, debout chaque matin,\nJe saurai retrouver la candeur oubliée.\n\nJe mettrai dans mes vers ce qui me rend vivant,\nRepoussant cette mort jusqu'à ce prochain mot,\nJe travaillerai dur, et je rirai souvent,\nMais parfois, certains jours, je finirai sous l’eau.",
+      "credits": "Cachalot : « whale.wav » by stomachache, freesound.org, CC BY 3.0. Vagues (felix.blume), nage (craigsmith), ambiance sous l’eau (Tim_Verberne) : freesound.org, CC0."
     }
   ]
 }

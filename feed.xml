@@ -14,6 +14,7 @@
     <itunes:image href="https://mvalentini-site.github.io/capitaine-cortese/assets/couverture.jpg"/>
     <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
     <item>
       <title>Le monarque gris</title>
       <description>Un roi déchu, un jardin desséché, et un diamant d’innocence prêté de bon cœur. Le début du conte.
@@ -184,6 +185,84 @@ Sons : Cachalot : « whale.wav » by stomachache, freesound.org, CC BY 3.0. Vagu
       <enclosure url="https://mvalentini-site.github.io/capitaine-cortese/audio/03-la-vraie-question.mp3" length="3839660" type="audio/mpeg"/>
       <itunes:episode>3</itunes:episode>
       <itunes:duration>2:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La bastie d’Urfé</title>
+      <description>Une visite de château pas comme les autres : un coq qui se croit le maître, un chien exilé qui fume la pipe, un sphinx et une question : c’est quoi, être un humain ?
+
+Château aménagé durant la Renaissance,
+C'est la Bastie d’Urfé que je viens visiter
+Il est plutôt ancien, mais garde son essence
+Car aucun héritier n’a voulu le changer.
+
+En entrant dans la cour, me voilà accueilli
+Par un coq camouflé et son chant mélodieux
+Pourchassant les poulettes à l’ombre d’un grand buis,
+Il se prend tout à fait pour le maître des lieux.
+
+Je rejoins dans la cour le groupe de visite
+Je me tiens à côté d'un chien bien habillé
+Il allume sa pipe en tirant, puis hésite
+Il me rend mon bonjour, et me dit, l’air inquiet :
+
+«Moi je viens d'un pays où nous vivions en paix
+Puis j'ai vu débarquer une armée de sosies,
+Des soldats entraînés et lourdement armés,
+Ils ont tout emporté et tué mes amis.
+
+Je suis un voyageur dans un exil forcé,
+Que reste-t-il de moi depuis l'effondrement ?
+Je n’ai pas les bons mots quand je veux exprimer
+La colère enfermée dans mon ressentiment.»
+
+En l'écoutant parler, j'ai senti dans ma gorge
+Monter la même rage et le même silence,
+Deux exilés battus d’un monde qui s’égorge
+Deux voix sans les bons mots, deux cœurs en résistance.
+
+La guide entame sa présentation du lieu
+Un seigneur adoptant le courant humaniste
+Cherchait à s'élever, pas vraiment vers les cieux
+Mais il voulait aller dans des choix réalistes.
+
+Avant de m'engager dans le grand escalier,
+Je dois d'abord répondre à la question du sphinx
+«C'est quoi être un humain ?» me dit-il enjoué
+Mais alors aucun son ne sort de mon larynx.
+
+«C’est bien trop compliqué, répond alors le chien
+— Très bien, reprend le sphinx, qui dirige ce lieu ?»
+Je crois que c'est le coq, je réponds plutôt bien
+Le sphinx nous dit alors «Vous passez tous les deux.»
+
+Devant nous, elle se tient, la rampe cavalière
+Je vois Claude d’Urfé qui salue de la main
+Avec ses beaux habits, l'allure hospitalière,
+Il veut nous enseigner sa vision de l'humain.
+
+«Un humain, nous dit-il, est un jardin à faire,
+Il pousse avec le temps, la pierre et les savoirs.»
+Le chien fume sa pipe, et le coq en colère
+S'en va chanter plus fort au sommet du perchoir.
+
+Avant de repartir, je me rends à la grotte,
+Ses murs ont pris forme sous de patientes mains,
+Coquillages, galets ramassés sur la côte
+Et rapportés de loin par de très longs chemins.
+
+Être humain, c'est cela : des éclats qu'on assemble,
+Recueillis un par un au hasard des matins,
+Rien n'y est assorti, mais tout tient bien ensemble,
+Tels les vers que j’écris, jour après jour, d’instinct.
+
+Sons : Poules (JarredGibb), battements de cœur (patobottos), coq (Vrymaa), gouttes (METKIR) : freesound.org, CC0.</description>
+      <link>https://mvalentini-site.github.io/capitaine-cortese/#la-bastie-d-urfe</link>
+      <guid isPermaLink="false">la-bastie-d-urfe</guid>
+      <pubDate>Sat, 07 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://mvalentini-site.github.io/capitaine-cortese/audio/04-la-bastie-d-urfe.mp3" length="5527916" type="audio/mpeg"/>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>3:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

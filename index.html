@@ -23,7 +23,8 @@
       <p class="tagline" id="tagline">Poèmes dits à voix haute</p>
       <p class="desc" id="description"></p>
       <p class="links">
-        <a class="btn" href="feed.xml">S'abonner (flux RSS)</a>
+        <a class="btn" href="https://open.spotify.com/show/6ZUqeGlJFqLBsNOWucx7pb" target="_blank" rel="noopener">Écouter sur Spotify</a>
+        <a class="btn btn-ghost" href="feed.xml">Flux RSS</a>
         <span class="count" id="count"></span>
       </p>
     </div>
@@ -31,12 +32,12 @@
 </header>
 
 <main>
-  <div class="toolbar">
-    <h2>Le journal de bord</h2>
-    <input type="search" id="search" placeholder="Chercher un poème…" aria-label="Chercher un poème">
-  </div>
-  <ol class="episodes" id="episodes"></ol>
-  <p class="empty" id="empty" hidden>Aucun poème ne correspond.</p>
+  <div id="albums"></div>
+  <details class="credits-section" id="credits" hidden>
+    <summary>Crédits sonores</summary>
+    <p>Bruitages issus de freesound.org.</p>
+    <ul id="creditsList"></ul>
+  </details>
 </main>
 
 <footer>
@@ -45,7 +46,9 @@
 
 <!-- Lecteur fixe en bas de page -->
 <div class="player" id="player" hidden>
+  <button class="skip" id="prevBtn" aria-label="Poème précédent" hidden>⏮</button>
   <button class="play" id="playBtn" aria-label="Lecture">▶</button>
+  <button class="skip" id="nextBtn" aria-label="Poème suivant" hidden>⏭</button>
   <div class="pl-info">
     <div class="pl-title" id="plTitle"></div>
     <div class="pl-bar">

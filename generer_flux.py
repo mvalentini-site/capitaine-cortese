@@ -23,7 +23,7 @@ def rfc822(date):
 
 
 items = []
-for ep in sorted(d["episodes"], key=lambda e: e.get("date", ""), reverse=True):
+for ep in sorted(d["episodes"], key=lambda e: e.get("numero", 0)):
     if not ep.get("audio"):
         continue  # pas encore enregistré : pas dans le flux
     chemin = os.path.join(ICI, ep["audio"])
@@ -64,6 +64,7 @@ flux = f"""<?xml version="1.0" encoding="UTF-8"?>
     <itunes:image href="{base}{escape(d['image'])}"/>
     <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
 {chr(10).join(items)}
   </channel>
 </rss>

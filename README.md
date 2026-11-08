@@ -15,11 +15,15 @@ Site de podcast pour publier mes poèmes lus à voix haute. Site statique, prév
   "date": "2026-11-14",
   "duree": "2:35",
   "audio": "audio/02-la-houle.mp3",
+  "album": "nouveau-depart",
+  "partie": "I. Le diamant",
   "resume": "Une phrase qui présente le poème.",
   "texte": "Premier vers,\nsecond vers,\n\nnouvelle strophe."
 }
 ```
 
+   - `numero` : place dans l'album (le site et le flux suivent cet ordre, pas la date).
+   - `album` : l'`id` d'un album de la liste `albums` en haut du fichier ; `partie` : le titre de section affiché au-dessus.
    - `id` : court, sans espaces ni accents (sert de lien direct : `…/#la-houle`).
    - `audio` vide (`""`) : le poème s'affiche avec « Enregistrement bientôt disponible ».
    - `texte` : `\n` = retour à la ligne, `\n\n` = nouvelle strophe.
